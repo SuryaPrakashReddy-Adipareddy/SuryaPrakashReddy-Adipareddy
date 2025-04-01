@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surya Prakash</h1>
 <h3 align="center">A passionate AIML developer and Data Science enthusiast from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryaprakashreddy-adipareddy" alt="suryaprakashreddy-adipareddy" /></a> </p>
 
 - 🔭 I’m currently working on **PRECISION AGRICULTURE USING AI**
 
